@@ -1,1 +1,11 @@
+# basic options
+title: Independant Digital Marketer
+author: aazahrou
+email: a@azahrou.com
+description: Stay Tune, Digital Marketer WS is Running!!
+twitter_username: azahrou
+github_username:  aazahrou
 
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-primer
