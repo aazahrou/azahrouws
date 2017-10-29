@@ -8,4 +8,4 @@ github_username:  aazahrou
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
